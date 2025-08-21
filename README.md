@@ -10,7 +10,7 @@
 
 ---
 
-## 📊 진도율 ![progressbar](https://geps.dev/progress/63)
+## 📊 진도율 ![progressbar](https://geps.dev/progress/73)
 
 <details>
 <summary><strong>챕터별 진행 상황 보기 (Click to expand)</strong></summary>
@@ -27,7 +27,7 @@
 | 섹션 7 | 접근 제어자 | ✅ |
 | 섹션 8 | 자바 메모리 구조와 static | ✅ |
 | 섹션 9 | final | ✅ |
-| 섹션 10 | 상속 | ⬜️ |
+| 섹션 10 | 상속 | ✅ |
 | 섹션 11 | 다형성1 | ⬜️ |
 | 섹션 12 | 다형성2 | ⬜️ |
 | 섹션 13 | 다형성과 설계 | ⬜️ |
@@ -39,11 +39,13 @@
 
 ## ⏰ 총 공부 시간
 
-**총 `10`시간 `4`분**
+**총 `11`시간 `43`분**
 
 ---
 
 ## 📚 수강 이력
+
+![Activity Graph](https://activity-graph-generator.vercel.app/api/graph?start=20250811&data=10,9,7,7,5,0,0,8,12,4,10&theme=teal&size=14)
 
 <details>
 <summary><strong>일자별 학습 기록 보기 (Click to expand)</strong></summary>
@@ -60,7 +62,7 @@
 | 2025-08-18 |섹션 7. 접근 제어자 | 1시간 26분 |
 | 2025-08-19 |섹션 8. 자바 메모리 구조와 static | 2시간 5분 |
 | 2025-08-20 |섹션 9. final | 37분 |
-| - |섹션 10. 상속 | - |
+| 2025-08-21 |섹션 10. 상속 | 1시간 39분 |
 | - |섹션 11. 다형성1 | - |
 | - |섹션 12. 다형성2 | - |
 | - |섹션 13. 다형성과 설계 | - |
