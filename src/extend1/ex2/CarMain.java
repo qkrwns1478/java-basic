@@ -9,10 +9,17 @@ public class CarMain {
         // x001.move()를 호출한다. 본인 타입에 move()가 없으므로, 부모 타입에서 move()를 찾아 호출한다.
         electricCar.charge();
         // x001.charge()를 호출한다. 본인 타입에 charge()가 있으므로, 본인 타입에서 charge()를 찾아 호출한다.
+        electricCar.openDoor();
 
         GasCar gasCar = new GasCar();
         gasCar.move();
         gasCar.fillUp();
+        gasCar.openDoor();
+
+        HydrogenCar hydrogenCar = new HydrogenCar();
+        hydrogenCar.move();
+        hydrogenCar.fillHydrogen();
+        hydrogenCar.openDoor();
     }
 }
 
