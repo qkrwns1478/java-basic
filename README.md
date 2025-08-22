@@ -3,14 +3,13 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 - **김영한** 님의 **실전 자바 기본편** 강의를 수강하며 공부한 내용을 정리하는 레포지토리입니다.
 
 ---
 
-## 📊 진도율 ![progressbar](https://geps.dev/progress/73)
+## 📊 진도율 ![progressbar](https://geps.dev/progress/80)
 
 <details>
 <summary><strong>챕터별 진행 상황 보기 (Click to expand)</strong></summary>
@@ -28,7 +27,7 @@
 | 섹션 8 | 자바 메모리 구조와 static | ✅ |
 | 섹션 9 | final | ✅ |
 | 섹션 10 | 상속 | ✅ |
-| 섹션 11 | 다형성1 | ⬜️ |
+| 섹션 11 | 다형성1 | ✅ |
 | 섹션 12 | 다형성2 | ⬜️ |
 | 섹션 13 | 다형성과 설계 | ⬜️ |
 | 섹션 14 | 다음으로 | ⬜️ |
@@ -39,13 +38,13 @@
 
 ## ⏰ 총 공부 시간
 
-**총 `11`시간 `43`분**
+**총 `13`시간 `10`분**
 
 ---
 
 ## 📚 수강 이력
 
-![Activity Graph](https://activity-graph-generator.vercel.app/api/graph?start=20250811&data=10,9,7,7,5,0,0,8,12,4,10&theme=teal&size=14)
+![Activity Graph](https://activity-graph-generator.vercel.app/api/graph?start=20250811&data=10,9,7,7,5,0,0,8,12,4,10,7&theme=teal&size=14)
 
 <details>
 <summary><strong>일자별 학습 기록 보기 (Click to expand)</strong></summary>
@@ -63,7 +62,7 @@
 | 2025-08-19 |섹션 8. 자바 메모리 구조와 static | 2시간 5분 |
 | 2025-08-20 |섹션 9. final | 37분 |
 | 2025-08-21 |섹션 10. 상속 | 1시간 39분 |
-| - |섹션 11. 다형성1 | - |
+| 2025-08-22 |섹션 11. 다형성1 | 1시간 26분 |
 | - |섹션 12. 다형성2 | - |
 | - |섹션 13. 다형성과 설계 | - |
 | - |섹션 14. 다음으로 | - |
